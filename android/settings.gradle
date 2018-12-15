@@ -1,0 +1,3 @@
+rootProject.name = 'Bai35Redux'
+
+include ':app'
